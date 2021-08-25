@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "service1.h"
+#include "catalog.h"
 
 int *query_catalog_1_svc(char **name, struct svc_req *rqstp)
 {

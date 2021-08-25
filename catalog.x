@@ -5,4 +5,3 @@ program SERVICEPROG_A {
 		int QUERY_CATALOG(string) = 1;
 	} = VERSION_NUMBER;
 } = 0x20000000;
-
