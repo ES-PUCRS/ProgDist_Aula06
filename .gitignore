@@ -1,0 +1,11 @@
+client
+server1
+server2
+service1_svc.c
+service1_clnt.c
+service2_svc.c
+service2_clnt.c
+service1_xdr.c
+service2_xdr.c
+service1.h
+service2.h
